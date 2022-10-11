@@ -72,3 +72,12 @@ footer {
 h4 {
   margin-left: 20px;
 }
+
+#foto{
+  width: 40px;
+  height: 30px;
+}
+
+p{
+  display: flex;
+}
